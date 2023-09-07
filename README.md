@@ -6,12 +6,12 @@
 
 برخی از کتابخانه های بکار رفته در این پروژه:
 
--   <a href="https://riverpod.dev/" target="_blank">Riverpod</a> as State Management
--   <a href="https://pub.dev/packages/retrofit" target="_blank">Retrofit</a> Handle request from app to backend
--   <a href="https://pub.dev/packages/json_serializable" target="_blank">Json Serializable</a> as from and to json code generator
--   <a href="https://pub.dev/packages/freezed" target="_blank">Freezed</a> as model class generator
--   <a href="https://pub.dev/packages/cached_network_image" target="_blank">Cached Network Image</a>
--   <a href="https://pub.dev/packages/get_it" target="_blank">Get It</a> as router
+-   <a href="https://riverpod.dev/" target="blank">Riverpod</a> as State Management
+-   <a href="https://pub.dev/packages/retrofit" target="blank">Retrofit</a> Handle request from app to backend
+-   <a href="https://pub.dev/packages/json_serializable" target="blank">Json Serializable</a> as from and to json code generator
+-   <a href="https://pub.dev/packages/freezed" target="blank">Freezed</a> as model class generator
+-   <a href="https://pub.dev/packages/cached_network_image" target="blank">Cached Network Image</a>
+-   <a href="https://pub.dev/packages/get_it" target="blank">Get It</a> as router
 
 farhang.vaghardoost@gmail.com
 
